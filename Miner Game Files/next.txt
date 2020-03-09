@@ -1,0 +1,9 @@
+Citizen Status
+-Current Tier
+-Current Class Points
+Inventory
+-Trash on Hand
+-Money
+-Weapon
+Health
+-Last Slept
